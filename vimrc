@@ -83,6 +83,9 @@ set mouse-=a " disable mouse
 
 set notimeout nottimeout " leader-keys wont time out for remaps
 
+filetype indent off
+filetype plugin off
+
 
 " remaps
 " ==========
